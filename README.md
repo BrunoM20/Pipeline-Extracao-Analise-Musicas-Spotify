@@ -52,4 +52,6 @@ O projeto busca responder perguntas como:
 - **Transformers / Torch / Torchaudio** - Modelos de NLP  
 - **Requests / BeautifulSoup4 / Unidecode** - Web Scraping e limpeza textual  
 - **NLTK** - Processamento de texto e análise linguística  
-- **Legibilidad / Textstat** - Métricas de legibilidade 
+- **Legibilidad / Textstat** - Métricas de legibilidade
+- **Pandas / Matplotlib / Seaborn** - Organização e visualização dos resultados  
+
